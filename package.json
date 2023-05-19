@@ -1,0 +1,31 @@
+{
+  "name": "com.transfrvr.ce2.{$sim_name_lowercase}",
+  "version": "1.0.0",
+  "displayName": "CE2: {$sim_name}",
+  "description": "{$sim_description}",
+  "unity": "2020.3",
+  "keywords": [
+    "careerexploration",
+    "sim"
+  ],
+  "author": {
+    "name": "TransfrVR",
+    "email": "evan@transfrvr.com",
+    "url": "https://github.com/TRANSFR-Inc/{$sim_id}_{$sim_name}"
+  },
+  "unityRelease": "17f1",
+  "dependencies": {
+    "com.transfrvr.common": "1.2.11",
+    "com.transfrvr.mechanics": "1.1.22",
+    "com.transfrvr.simulationsystem": "1.2.2",
+    "com.transfrvr.interactables": "1.0.5",
+    "com.transfrvr.avatars": "1.0.15",
+    "com.transfrvr.userinterface": "2.1.5",
+    "com.transfrvr.coach": "2.2.6",
+    "com.transfrvr.cemenus": "1.2.5",
+    "com.transfrvr.experimental": "2.1.3",
+    "com.transfrvr.analysis": "1.0.3",
+    
+    "com.demigiant.dotween": "1.0.0"
+  }
+}
